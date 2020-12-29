@@ -1,0 +1,16 @@
+{
+  "name": "joyous-fruit-pop-ykeo6",
+  "productName": "joyous-fruit-pop-ykeo6",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "jaeg0",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "11.0.0-beta.20"
+  }
+}
